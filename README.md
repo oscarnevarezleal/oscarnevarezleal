@@ -1,13 +1,13 @@
 ### Ahoi! 👋
 
-I'm here to learn and share the knowledge. Have some fun, take a look at my repos. is there some' you're interested in?
+I'm here to learn and share the knowledge. 
 
 - 🔭 I’m currently working on an awesome probably NDA-signed project which I cannot disclousure 🤷
 - 👯 I’m looking to collaborate on open source projects especially cloud/serverless oriented ones.
 - 📫 How to reach me: ...
 - - [LinkedIn](https://www.linkedin.com/in/oscarnevarezleal/)
-- - [Twiter](https://twitter.com/insan3)
-- - [![Contact me on Codementor](https://www.codementor.io/m-badges/fuwire/contact-me.svg)](https://www.codementor.io/@fuwire?refer=badge)
+- - [Twiter](https://twitter.com/wownevarez)
+- - [CodeMentor](https://www.codementor.io/@fuwire?refer=badge)
 
 
 <!--
